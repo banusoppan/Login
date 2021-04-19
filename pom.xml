@@ -19,7 +19,7 @@
 		<spring-boot-admin.version>2.1.5</spring-boot-admin.version>
 		<spring-cloud.version>Greenwich.SR1</spring-cloud.version>
 		<spring-statemachine.version>2.0.1.RELEASE</spring-statemachine.version>
-		<vaadin.version>13.0.8</vaadin.version>
+		<vaadin.version>14.4.10</vaadin.version>
 	</properties>
 
 	<dependencies>
